@@ -1,0 +1,35 @@
+*{
+    margin :0%;
+    padding :0%;
+    box-sizing: border-box;
+}
+
+#dabba{
+
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+    border: 1px solid #000;
+    position: absolute;
+
+
+}
+@keyframes hdgfdhh{
+
+         0%{
+            top: 0%;
+            left: 0%;
+         }
+
+         25%{
+            top: 0%;
+            left: 500px;
+         }
+         50%{
+            top: 500px;
+            left: 500px;
+         }
+
+
+}
+

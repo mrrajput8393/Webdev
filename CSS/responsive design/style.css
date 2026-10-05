@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+#bigbox{
+display: flex;
+justify-content: space-around;
+align-items: center;
+grid-template-columns: auto auto auto;
+
+}
+
+
+.box{
+     width: 200px;
+     height: 200px;
+     border: 1px solid black;
+
+}
+#para1{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    
+    width: 10px;
+    height: 10px;
+    
+}
